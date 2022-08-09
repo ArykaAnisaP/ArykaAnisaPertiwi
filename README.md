@@ -1,2 +1,3 @@
 # ArykaAnisaPertiwi
- UAS ALGO
+ Politeknik Pos Indoneisa 
+ mengerjakan UAS ALGORITMA
